@@ -1,2 +1,17 @@
-# RandomNumGame-
-A game where the user guesses a random number from 0-99 to hit a target. The program will let the user know whether their guess is higher or lower than the target. The game continues until the user guesses the right number !
+Java Number Guessing Game
+
+This is a simple console-based game written in Java.
+
+The program generates a random number between 1 and 100.
+The user tries to guess the number, and the program will
+tell them if their guess is too high or too low until
+they guess correctly.
+
+Features:
+- Random number generation
+- User input handling
+- Guess counter
+
+How to run:
+- Compile: javac Main.java
+- Run: java Main
